@@ -1,0 +1,10 @@
+com\example\ProyectoMbappe\controller\CelController.class
+com\example\ProyectoMbappe\exception\CelNotFoundException.class
+com\example\ProyectoMbappe\configuration\CorsConfig.class
+com\example\ProyectoMbappe\exception\CelNotFoundExceptionAdvice.class
+com\example\ProyectoMbappe\ProyectoMbappeApplication.class
+com\example\ProyectoMbappe\service\CelServiceImpl.class
+com\example\ProyectoMbappe\service\CelService.class
+com\example\ProyectoMbappe\entity\Cel.class
+com\example\ProyectoMbappe\repository\CelRepository.class
+com\example\ProyectoMbappe\configuration\CorsConfig$1.class
